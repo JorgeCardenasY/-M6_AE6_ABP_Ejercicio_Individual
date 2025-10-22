@@ -96,11 +96,11 @@ Para acceder al panel de administración de Django, se debe navegar a `http://11
 
 **Credenciales de Acceso (Ejemplo):**
 
-*   **Usuario:** `admin`
-*   **Contraseña:** `admin123`
+*   **Usuario:** `root`
+*   **Contraseña:** `admin`
 
 **¡Importante!** Se recomienda encarecidamente cambiar estas credenciales por defecto en un entorno de producción para garantizar la seguridad de la aplicación.
 
 ## 📝 Consideraciones Adicionales
 
-Este proyecto sirve como una base para una tienda online. Se pueden añadir funcionalidades adicionales como pasarelas de pago reales, gestión de inventario más avanzada, sistemas de recomendación, entre otros, para expandir sus capacidades.
+Este proyecto sirve como una base para una tienda online. Se pueden añadir funcionalidades adicionales como un landing page, pasarelas de pago, gestión de inventario más avanzada, sistemas de recomendación, entre otros, para expandir sus capacidades.
